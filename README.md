@@ -50,9 +50,14 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
 3.	Divide A by B.
 4.	Store the quotient in memory location 40H.
 5.	Store the remainder in memory location 41H.
-   
+
+
 ## Program:
 
 
 ## Output:
+
+
+## Result:
+The 8-bit arithmetic operations using the 8051 microcontroller have been successfully executed and verified using Keil software.
 
